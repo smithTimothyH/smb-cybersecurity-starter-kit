@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by Timothy Smith - smith.timothyh@gmail.com
 
-Project Link: [https://github.com/smithtimothyh/smb-cybersecurity-starter-kit](https://github.com/yourusername/smb-cybersecurity-starter-kit)
+Live Demo: [https://magenta-moxie-530b79.netlify.app](https://magenta-moxie-530b79.netlify.app)
 
 ---
 
