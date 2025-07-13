@@ -131,7 +131,7 @@ The application uses a 5-point maturity scale:
 - **4 - Managed**: Adaptive processes
 - **5 - Optimized**: Continuously improving processes
 
-## 📚 Resources Included (🚧 In Progress )
+## 📚 Resources Included 🚧
 
 - **Policies & Procedures**: 12 comprehensive templates
 - **Training Materials**: 8 awareness and education resources
